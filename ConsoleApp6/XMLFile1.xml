@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<studentList>
+   <student course="2">
+     <fullname>Ivanov Ivan</fullname>
+     <rating>90</rating>
+   </student>
+   <student course="1">
+    <fullname>Petrenko Petro</fullname>
+    <rating>75</rating>
+  </student>
+</studentList>

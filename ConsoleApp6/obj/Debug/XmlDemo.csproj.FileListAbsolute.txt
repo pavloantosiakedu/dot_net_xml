@@ -1,0 +1,7 @@
+C:\Users\antosp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\XmlDemo.exe.config
+C:\Users\antosp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\XmlDemo.exe
+C:\Users\antosp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\XmlDemo.pdb
+C:\Users\antosp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\XmlDemo.csprojAssemblyReference.cache
+C:\Users\antosp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\XmlDemo.csproj.CoreCompileInputs.cache
+C:\Users\antosp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\XmlDemo.exe
+C:\Users\antosp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\XmlDemo.pdb
